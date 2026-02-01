@@ -1,6 +1,6 @@
 # Data Salaries Dashboard
 
-An interactive **Streamlit** dashboard to explore salary trends in data-related roles. Users can filter by **year, seniority, contract type, and company size**, and visualize key metrics and charts with Plotly.
+An interactive **Streamlit** dashboard to explore salary trends in data-related roles. Users can filter by **year, seniority, contract type, and company size**, and visualize key metrics and charts with Plotly. Can be accessed on https://data-salary-analysis-dashboard-jqkiasd9sagjgb2ff24caz.streamlit.app/
 
 ---
 
@@ -22,5 +22,6 @@ An interactive **Streamlit** dashboard to explore salary trends in data-related 
 - Streamlit– for building the interactive web app  
 - Pandas– for data manipulation  
 - Plotly– for interactive charts and visualizations  
+
 
 ---
